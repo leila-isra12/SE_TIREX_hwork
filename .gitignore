@@ -9,4 +9,4 @@ venv/
 
 # Ignore specific files
 error.py
-main.py
+website.py
